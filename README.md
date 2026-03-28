@@ -28,6 +28,22 @@
             src="https://custom-icon-badges.demolab.com/github/followers/Hyam-M?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+    <a href="https://www.instagram.com/rian_maarcos/">
+        <img 
+            alt="Instagram" 
+            title="Me siga no Instagram" 
+            src="https://custom-icon-badges.demolab.com/badge/Instagram-rian_maarcos-E4405F?logo=instagram&logoColor=white"
+        />
+    </a>
+</a>
+    <a href="https://www.linkedin.com/in/rian-marcos-alves-39a043377/">
+        <img 
+            alt="Linkedin" 
+            title="Linkedin" 
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Rian Marcos-0A66C2?logo=linkedin&logoColor=white"
+        />
+    </a>
+    
 </p>
 
 ---
@@ -97,24 +113,24 @@
 
 ### 📊 Estatísticas
 
-<p>
+<div align="center">
+
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Hyam-M&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    height="180"
+    src="https://github-readme-stats-xi-nine-48.vercel.app/api?username=Hyam-M&theme=gotham&show_icons=true&hide_border=true"
+  />
+  <img 
+    height="180"
+    src="https://github-readme-stats-xi-nine-48.vercel.app/api/top-langs?username=Hyam-M&theme=gotham&layout=compact&hide_border=true"
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyam-M&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+</div>
+
+<br>
+
+<div align="center">
+  <img 
+    src="https://media1.tenor.com/m/9LaQ3vtV8iYAAAAd/fullmetal-alchemist-edward-elric.gif" 
+    width="400"
   />
-
-</p>
-
-<p align="center">
-    <img src="https://media1.tenor.com/m/9LaQ3vtV8iYAAAAd/fullmetal-alchemist-edward-elric.gif" width="400"> 
-</p>
+</div>
