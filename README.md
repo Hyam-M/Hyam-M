@@ -26,7 +26,7 @@
     width="30px" 
     style="padding-right: 10px;"
     style="padding-top: 10px;" 
-    src="https://it.wikipedia.org/wiki/File:Java_Logo.svg" 
+    src="https://skillicons.dev/icons?i=java" 
 />
 <img 
     align="left" 
